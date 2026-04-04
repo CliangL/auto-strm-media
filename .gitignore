@@ -1,0 +1,9 @@
+# 本地配置（包含敏感信息）
+local.env
+
+# macOS
+.DS_Store
+
+# 临时文件
+*.tmp
+*.log
